@@ -1,8 +1,4 @@
-using UnityEditor.Build.Content;
 using UnityEngine;
-using UnityEngine.Assertions.Must;
-using UnityEngine.Tilemaps;
-using UnityEngine.U2D;
 
 
 public class Gun : MonoBehaviour
